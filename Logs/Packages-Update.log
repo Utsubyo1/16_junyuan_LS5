@@ -59,3 +59,14 @@ The following packages were added:
   com.unity.polybrush@1.0.1
   com.unity.postprocessing@2.3.0
   com.unity.probuilder@4.2.3
+
+=== Mon May 17 08:52:35 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ext.nunit from version 1.0.0 to 1.0.6
+  com.unity.ide.vscode from version 1.2.1 to 1.2.3
+  com.unity.polybrush from version 1.0.1 to 1.0.2
+  com.unity.test-framework from version 1.1.16 to 1.1.20

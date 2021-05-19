@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: VegetationMedium01_Mat
   m_Shader: {fileID: 4800000, guid: e48dc3fe7602c914abada8cec9711f48, type: 3}
   m_ShaderKeywords: _EMISSION _METALLICGLOSSMAP _NORMALMAP
@@ -98,4 +99,4 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissiveColor: {r: 1.5157163, g: 1.5157163, b: 1.5157163, a: 1}
+    - _EmissiveColor: {r: 11.984314, g: 11.984314, b: 11.984314, a: 1}
